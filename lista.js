@@ -29,5 +29,5 @@ function clique(){
         e.target.classList.toggle('checked');
       });
 
-     
+
 }
